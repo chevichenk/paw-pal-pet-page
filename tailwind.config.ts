@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Pet adoption colors
+				'warm-orange': 'hsl(var(--warm-orange))',
+				'soft-peach': 'hsl(var(--soft-peach))',
+				'mint-green': 'hsl(var(--mint-green))',
+				'cream': 'hsl(var(--cream))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
